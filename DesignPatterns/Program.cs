@@ -12,6 +12,7 @@ switch (choice)
     case "1":
         DesignPatterns.Patterns.Creational.FactoryMethod.Demo.Run();
         DesignPatterns.Patterns.Creational.AbstractFactory.Demo.Run();
+        DesignPatterns.Patterns.Creational.Builder.Demo.Run();
         break;
     case "2":
         Console.WriteLine("Placeholder Creational");
