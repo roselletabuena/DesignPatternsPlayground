@@ -18,7 +18,6 @@
     <Folder Include="Patterns\Behavioral\Strategy\" />
     <Folder Include="Patterns\Behavioral\State\" />
     <Folder Include="Patterns\Behavioral\Observer\" />
-    <Folder Include="Patterns\Creational\Singleton\" />
     <Folder Include="Patterns\Structural\Adapter\" />
     <Folder Include="Patterns\Structural\Bridge\" />
     <Folder Include="Patterns\Structural\Composite\" />

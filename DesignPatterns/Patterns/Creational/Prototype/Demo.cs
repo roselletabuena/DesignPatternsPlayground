@@ -16,7 +16,7 @@ namespace DesignPatterns.Patterns.Creational.Prototype
             var reportCopy = (ReportDocument)registry.GetClone("report");
             var invoiceDeepCopy = (InvoiceDocument)registry.GetClone("invoice", deep: true);
 
-            reportCopy.GetType().GetProperty("Title")?.SetValue(reportCopy, , "Annual Report - Copy");
+            reportCopy.GetType().GetProperty("Title")?.SetValue(reportCopy, "Annual Report - Copy");
             invoiceDeepCopy.GetType().GetProperty("CustomerName")?.SetValue(invoiceDeepCopy, "Jane Smith");
 
             registry.GetClone("report").ShowInfo();
