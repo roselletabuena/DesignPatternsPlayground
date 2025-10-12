@@ -19,6 +19,7 @@ switch (choice)
         Console.WriteLine("====================");
 
         DesignPatterns.Patterns.Creational.Combinations.SingletonFactory.Demo.Run();
+        DesignPatterns.Patterns.Creational.Combinations.SingletonAbstractFactory.Demo.Run();
         break;
     case "2":
         Console.WriteLine("Placeholder Creational");
