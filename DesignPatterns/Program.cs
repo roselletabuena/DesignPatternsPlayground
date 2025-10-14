@@ -23,7 +23,7 @@ switch (choice)
         DesignPatterns.Patterns.Creational.Combinations.BuilderFactory.Demo.Run();
         break;
     case "2":
-        Console.WriteLine("Placeholder Creational");
+        DesignPatterns.Patterns.Structural.Adapter.Demo.Run();
         break;
     case "3":
         Console.WriteLine("Placeholder Structural");
