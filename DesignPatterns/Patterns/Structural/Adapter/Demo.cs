@@ -1,8 +1,5 @@
 ﻿using DesignPatterns.Patterns.Structural.Adapter.Adapters;
 using DesignPatterns.Patterns.Structural.Adapter.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace DesignPatterns.Patterns.Structural.Adapter
 {

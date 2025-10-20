@@ -18,6 +18,7 @@
     <Folder Include="Patterns\Behavioral\Strategy\" />
     <Folder Include="Patterns\Behavioral\State\" />
     <Folder Include="Patterns\Behavioral\Observer\" />
+    <Folder Include="Patterns\Structural\Decorator\" />
     <Folder Include="Patterns\Structural\Facade\" />
     <Folder Include="Patterns\Structural\Flyweight\" />
     <Folder Include="Patterns\Structural\Proxy\" />
