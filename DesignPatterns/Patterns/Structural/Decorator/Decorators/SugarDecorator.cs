@@ -1,5 +1,5 @@
 ﻿
-namespace DesignPatterns.Patterns.Structural.Composite.Decorator.Decorators
+namespace DesignPatterns.Patterns.Structural.Decorator.Decorators
 {
     internal class SugarDecorator : CoffeeDecorator
     {

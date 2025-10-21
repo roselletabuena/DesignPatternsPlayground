@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace DesignPatterns.Patterns.Structural.Composite.Decorator.Decorators
+﻿
+namespace DesignPatterns.Patterns.Structural.Decorator.Decorators
 {
     internal class WhippedCreamDecorator : CoffeeDecorator
     {

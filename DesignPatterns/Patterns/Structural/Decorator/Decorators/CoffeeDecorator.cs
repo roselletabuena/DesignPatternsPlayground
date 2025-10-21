@@ -1,7 +1,7 @@
 ﻿
-using DesignPatterns.Patterns.Structural.Composite.Decorator.Interfaces;
+using DesignPatterns.Patterns.Structural.Decorator.Interfaces;
 
-namespace DesignPatterns.Patterns.Structural.Composite.Decorator.Decorators
+namespace DesignPatterns.Patterns.Structural.Decorator.Decorators
 {
     internal abstract class CoffeeDecorator : ICoffee
     {

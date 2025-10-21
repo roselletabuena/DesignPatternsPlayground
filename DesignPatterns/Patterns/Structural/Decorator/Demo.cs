@@ -1,10 +1,10 @@
 ﻿
 
-using DesignPatterns.Patterns.Structural.Composite.Decorator.Components;
-using DesignPatterns.Patterns.Structural.Composite.Decorator.Decorators;
-using DesignPatterns.Patterns.Structural.Composite.Decorator.Interfaces;
+using DesignPatterns.Patterns.Structural.Decorator.Components;
+using DesignPatterns.Patterns.Structural.Decorator.Decorators;
+using DesignPatterns.Patterns.Structural.Decorator.Interfaces;
 
-namespace DesignPatterns.Patterns.Structural.Composite.Decorator
+namespace DesignPatterns.Patterns.Structural.Decorator
 {
     internal class Demo
     {

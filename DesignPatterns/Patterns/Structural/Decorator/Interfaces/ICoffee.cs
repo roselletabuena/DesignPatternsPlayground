@@ -1,6 +1,6 @@
 ﻿
 
-namespace DesignPatterns.Patterns.Structural.Composite.Decorator.Interfaces
+namespace DesignPatterns.Patterns.Structural.Decorator.Interfaces
 {
     internal interface ICoffee
     {

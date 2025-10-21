@@ -1,6 +1,6 @@
-﻿using DesignPatterns.Patterns.Structural.Composite.Decorator.Interfaces;
+﻿using DesignPatterns.Patterns.Structural.Decorator.Interfaces;
 
-namespace DesignPatterns.Patterns.Structural.Composite.Decorator.Components
+namespace DesignPatterns.Patterns.Structural.Decorator.Components
 {
     internal class Latte : ICoffee
     {
