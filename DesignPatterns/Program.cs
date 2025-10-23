@@ -29,6 +29,7 @@ switch (choice)
         DesignPatterns.Patterns.Structural.Decorator.Demo.Run();
         DesignPatterns.Patterns.Structural.Facade.Demo.Run();
         DesignPatterns.Patterns.Structural.Flyweight.Demo.Run();
+        DesignPatterns.Patterns.Structural.Proxy.Demo.Run();
         break;
     case "3":
         Console.WriteLine("Placeholder Structural");
