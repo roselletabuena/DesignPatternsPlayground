@@ -32,7 +32,7 @@ switch (choice)
         DesignPatterns.Patterns.Structural.Proxy.Demo.Run();
         break;
     case "3":
-        Console.WriteLine("Placeholder Structural");
+        DesignPatterns.Patterns.Behavioral.Strategy.Demo.Run();
         break;
 }
 
