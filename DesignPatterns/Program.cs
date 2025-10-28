@@ -33,6 +33,7 @@ switch (choice)
         break;
     case "3":
         DesignPatterns.Patterns.Behavioral.Strategy.Demo.Run();
+        DesignPatterns.Patterns.Behavioral.Observer.Demo.Run();
         break;
 }
 
