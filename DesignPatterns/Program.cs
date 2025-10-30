@@ -35,6 +35,7 @@ switch (choice)
         DesignPatterns.Patterns.Behavioral.Strategy.Demo.Run();
         DesignPatterns.Patterns.Behavioral.Observer.Demo.Run();
         DesignPatterns.Patterns.Behavioral.Command.Demo.Run();
+        DesignPatterns.Patterns.Behavioral.Chain_of_Responsiblity.Demo.Run();
         break;
 }
 
