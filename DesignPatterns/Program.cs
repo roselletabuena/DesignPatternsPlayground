@@ -34,6 +34,7 @@ switch (choice)
     case "3":
         DesignPatterns.Patterns.Behavioral.Strategy.Demo.Run();
         DesignPatterns.Patterns.Behavioral.Observer.Demo.Run();
+        DesignPatterns.Patterns.Behavioral.Command.Demo.Run();
         break;
 }
 
