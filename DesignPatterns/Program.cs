@@ -38,6 +38,7 @@ switch (choice)
         DesignPatterns.Patterns.Behavioral.Chain_of_Responsiblity.Demo.Run();
         DesignPatterns.Patterns.Behavioral.Iterator.Demo.Run();
         DesignPatterns.Patterns.Behavioral.Mediator.Demo.Run();
+        DesignPatterns.Patterns.Behavioral.Memento.Demo.Run();
         break;
 }
 
