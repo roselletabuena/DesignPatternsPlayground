@@ -39,6 +39,7 @@ switch (choice)
         DesignPatterns.Patterns.Behavioral.Iterator.Demo.Run();
         DesignPatterns.Patterns.Behavioral.Mediator.Demo.Run();
         DesignPatterns.Patterns.Behavioral.Memento.Demo.Run();
+        DesignPatterns.Patterns.Behavioral.State.Demo.Run(); 
         break;
 }
 
