@@ -41,6 +41,7 @@ switch (choice)
         DesignPatterns.Patterns.Behavioral.Memento.Demo.Run();
         DesignPatterns.Patterns.Behavioral.State.Demo.Run();
         DesignPatterns.Patterns.Behavioral.Template_Method.Demo.Run();
+        DesignPatterns.Patterns.Behavioral.Visitor.Demo.Run();
         break;
 }
 

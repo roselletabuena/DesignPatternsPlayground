@@ -5,6 +5,6 @@ namespace DesignPatterns.Patterns.Behavioral.Visitor.Employees
 {
     internal interface IEmployee
     {
-        void Accept(IEmployeeVisitor visitor)
+        void Accept(IEmployeeVisitor visitor);
     }
 }
